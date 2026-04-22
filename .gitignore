@@ -1,0 +1,17 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+ENV/
+
+# Python cache (compiled files)
+__pycache__/
+*.py[cod]
+
+# macOS system files
+.DS_Store
+
+# Distribution / Build folders
+dist/
+build/
+*.egg-info/
